@@ -1,0 +1,6 @@
+s3_website.yml
+_site
+
+.idea
+.ruby-version
+Gemfile*
