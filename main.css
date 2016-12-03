@@ -1,0 +1,44 @@
+.jumbotron__background {
+    background: url('/media/images/drop_color.jpg') no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    font-family: Oswald;
+}
+
+p, li, span {
+    font-family: Raleway;
+}
+
+h1.headline {
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 5px #496A79;
+    margin: 2em 0;
+    font-size: 6vw;
+}
+
+.icon {
+    display: block;
+    margin: 40px auto 30px;
+}
+
+.icon--short {
+    display: block;
+    margin-bottom: 42px;
+}
+
+.intro-copy, .else-copy {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.basin-map {
+    margin: 40px auto 30px;
+}
