@@ -19,6 +19,10 @@ h1.headline {
     margin: 2em 0;
     font-size: 6vw;
 }
+.basin-map--column,
+.viral-video--column {
+    text-align: center;
+}
 
 .icon {
     display: block;
@@ -41,4 +45,10 @@ p {
 
 .basin-map {
     margin: 40px auto 30px;
+}
+
+@media screen and (max-width: 768px){
+    .jumbotron__background {
+        background-attachment: scroll;
+    }
 }
